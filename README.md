@@ -1,5 +1,7 @@
 # qb-input (NoPixel 4.0 Inspired)
 
+https://discord.gg/8kCnc5r8bf
+
 NUI input system for QBCore
 
 This is a modified version of **[NH Keyboard](https://forum.cfx.re/t/no-longer-supported-standalone-nerohiro-s-keyboard-dynamic-nui-keyboard-input/2506326)** by **[NeroHiro](https://github.com/nerohiro)**
