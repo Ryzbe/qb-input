@@ -1,4 +1,4 @@
-# qb-input
+# qb-input (NoPixel 4.0 Inspired)
 
 NUI input system for QBCore
 
